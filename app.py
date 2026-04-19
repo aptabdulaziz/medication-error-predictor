@@ -70,3 +70,14 @@ else:
 
 st.markdown("---")
 st.caption("Medication Error AI System • Prototype")
+
+# Di app.py, tambahkan di bagian bawah
+st.markdown("""
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+""", unsafe_allow_html=True)
