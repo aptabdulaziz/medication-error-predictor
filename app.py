@@ -533,7 +533,7 @@ else:
     dengan Fitur Predictive Analytics untuk Pencegahan Risiko Klinis di Rumah Sakit
     
     **Program Studi:** Magister Farmasi Klinis  
-    **Tahun:** 2025
+    **Tahun:** 2026
     
     ---
     
