@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@hospital.com
+      name: Administrator
+      password: $2b$12$vn2LEqH8gI0zGYKe5cQ0j.pGZN0EJqLXEOjYz7cHnfZGTZVvYN3Eq
+    
+    apoteker1:
+      email: apoteker@hospital.com
+      name: Apoteker Klinik
+      password: $2b$12$XKqZqN8gYJ0wI1zGzJ1RQOmZN8KqLMN9O0P1Q2R3S4T5U6V7W8X9Y
+    
+    dokter1:
+      email: dokter@hospital.com
+      name: Dr. Dokter
+      password: $2b$12$A9B8C7D6E5F4G3H2I1J0K9L8M7N6O5P4Q3R2S1T0U9V8W7X6Y5Z4a
+
+cookie:
+  expiry_days: 30
+  key: QxW3e4R5t6Y7u8I9o0P1a2S3d4F5g6H7j8K9l0M1n2O3p4Q5r6S7
+  name: medication_error_auth
