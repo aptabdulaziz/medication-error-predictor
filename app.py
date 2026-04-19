@@ -604,7 +604,7 @@ else:
 # ══════════════════════════════════════════════════════════
 st.markdown("""
 <div class="footer">
-    <p><strong>© 2025 Medication Error Prediction System</strong></p>
+    <p><strong>© 2026 Medication Error Prediction System</strong></p>
     <p>Prototype untuk Penelitian Tesis S2 Farmasi Klinis</p>
     <p style="font-size:0.85rem; margin-top:0.5rem;">
         Dibuat dengan ❤️ menggunakan Streamlit • Python • scikit-learn
