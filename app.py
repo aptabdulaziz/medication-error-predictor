@@ -65,7 +65,7 @@ else:
     
     **Disclaimer:** Prototype untuk penelitian. Data simulasi.
     
-    © 202 Penelitian Tesis S2 Farmasi Klinis
+    © 2026 Penelitian Tesis S2 Farmasi Klinis
     """)
 
 st.markdown("---")
