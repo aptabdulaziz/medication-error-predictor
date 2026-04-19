@@ -192,7 +192,7 @@ with st.sidebar:
         st.success("✅ Production Model Loaded")
     
     st.markdown("---")
-    st.caption("Version 2.0 • Updated Apr 2025")
+    st.caption("Version 2.0 • Updated Apr 2026")
 
 # ══════════════════════════════════════════════════════════
 # PAGE 1: PREDIKSI INDIVIDUAL
